@@ -2,9 +2,9 @@
 ## Description and Programming Interests
 My name is **Hussain Hunaid**, and I have a strong interest in _programming_ because I like solving problems and buidling creative solutions through code. I like exploring different programming languages and understanding how each one can be applied to solve real-life problems. What excites me most is turning ideas into functional application.
 ## Hobbies
--Photography
-*Swimming
-+Table Tennis
+- Photography
+* Swimming
++ Table Tennis
 ## Subjects
 1. Mathematics
 2. Physics
